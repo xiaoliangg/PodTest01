@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "YLiangTool"
-  spec.version      = "0.0.2"
+  spec.version      = "0.0.3"
   spec.summary      = "this is a create public cocoapods test."
 
   # This description is used to generate tags and improve search results.
