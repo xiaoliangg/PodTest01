@@ -1,5 +1,5 @@
 #
-#  Be sure to run `pod spec lint LZTool.podspec' to ensure this is a
+#  Be sure to run `pod spec lint YLiangTool.podspec' to ensure this is a
 #  valid spec and to remove all comments including this before submitting the spec.
 #
 #  To learn more about Podspec attributes see https://guides.cocoapods.org/syntax/podspec.html
@@ -15,8 +15,8 @@ Pod::Spec.new do |spec|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  spec.name         = "LZTool"
-  spec.version      = "0.0.1"
+  spec.name         = "YLiangTool"
+  spec.version      = "0.0.2"
   spec.summary      = "this is a create public cocoapods test."
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-  LZTool 是一个用于保存一些常用工具类的工具，测试.this is a create public cocoapods test.
+  YLiangTool 是一个用于保存一些常用工具类的工具，测试.this is a create public cocoapods test.
                    DESC
 
   spec.homepage     = "https://github.com/xiaoliangg/PodTest01"
